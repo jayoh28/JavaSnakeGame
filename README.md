@@ -1,2 +1,2 @@
 # JavaSnakeGame
-Simple Snake game written in Java using Javax
+Simple Snake game written in Java using JavaFX
